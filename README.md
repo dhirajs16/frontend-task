@@ -78,12 +78,6 @@ Authorization: Bearer <token>
 
 ---
 
-## 🎨 UI Guidelines
-
-* Only **shadcn components** are used
-* No custom UI components created manually
-* Clean and responsive layout
-
 
 ## 📬 Submission
 The candidate are required to push the fronend code only inside the repository.
